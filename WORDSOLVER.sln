@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WORDSOLVER", "WORDSOLVER\WORDSOLVER.vcxproj", "{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Debug|x64.ActiveCfg = Debug|x64
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Debug|x64.Build.0 = Debug|x64
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Debug|x86.Build.0 = Debug|Win32
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Release|x64.ActiveCfg = Release|x64
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Release|x64.Build.0 = Release|x64
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Release|x86.ActiveCfg = Release|Win32
+		{FCF18AF7-BAF6-41DE-BEDC-97705AA17994}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F49805F-5243-431B-B602-F1198DD37623}
+	EndGlobalSection
+EndGlobal
